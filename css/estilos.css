@@ -1,0 +1,17 @@
+body{
+    padding: 10px;
+    margin: 40px;
+    font-size: 24px;
+    font-family: helvetica;
+    background-image: url(https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/sistema-solar-2086751.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;  
+    color: white; 
+}
+
+nav
+{
+  background-color: rgb(255, 255, 255);  
+  padding: 0px;
+  color:blue 
+}
